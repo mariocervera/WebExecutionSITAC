@@ -8,7 +8,7 @@ generate graphical interfaces for the user. These interfaces enable the invocati
 in the process models.
 
 The web application that is contained in this repository was developed in the context of an ITEA 3 project: [SITAC] (https://itea3.org/project/sitac.html). An important result of this project is a mobile application that allows users
-to easily define service compositions (without needing any technical knowledge about BPMN 2.0 or Activiti). These service
+to easily define service compositions (without needing any technical knowledge of BPMN 2.0 or Activiti). These service
 compositions can be executed as is by the web application.
 
 A video demo of the mobile application can be found in:
