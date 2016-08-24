@@ -5,11 +5,11 @@ the web application is the [Activiti](http://activiti.org/) Engine, which suppor
 that are defined as process models compliant with the BPMN 2.0 standard. During the execution of these process models,
 the information exchanged (in JSON) between the Activiti Engine and the server allows the web application to dynamically
 generate graphical interfaces for the user. These interfaces enable the invocation of the web services that are defined
-in the process model.
+in the process models.
 
-The web application that is contained in this repository was developed in the context of an ITEA 3 project: [SITAC] (https://itea3.org/project/sitac.html). This project provides a mobile end-user tool that allows users to define BPMN 2.0
-process models without the need to have any technical knowledge about this standard or Activiti. These process models can
-be directly executed by the web application.
+The web application that is contained in this repository was developed in the context of an ITEA 3 project: [SITAC] (https://itea3.org/project/sitac.html). This project provides a mobile application that allows users to define service
+compositions without needing any technical knowledge about BPMN 2.0 or Activiti. These process models can be executed 
+as is by the web application.
 
 A video demo of the tool can be found in:
 
