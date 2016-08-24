@@ -7,9 +7,9 @@ the information exchanged (in JSON) between the Activiti Engine and the server a
 generate graphical interfaces for the user. These interfaces enable the invocation of the web services that are defined
 in the process models.
 
-The web application that is contained in this repository was developed in the context of an ITEA 3 project: [SITAC] (https://itea3.org/project/sitac.html). This project provides a mobile application that allows users to define service
-compositions without needing any technical knowledge about BPMN 2.0 or Activiti. These process models can be executed 
-as is by the web application.
+The web application that is contained in this repository was developed in the context of an ITEA 3 project: [SITAC] (https://itea3.org/project/sitac.html). An important result of this project is a mobile application that allows users
+to easily define service compositions (without needing any technical knowledge about BPMN 2.0 or Activiti). These service
+compositions can be executed as is by the web application.
 
 A video demo of the mobile application can be found in:
 
