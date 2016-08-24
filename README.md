@@ -1,10 +1,12 @@
 # WebExecutionSITAC
 
-This repository contains a web application that supports the execution of service compositions. These compositions
-are defined as business processes according to the BPMN 2.0 standard. The graphical user interfaces that allow the
-user to invoke the web services are generated dynamically during the process execution.
+This repository contains a web application that supports the execution of service compositions built by end-users. The
+core component of the web application is the [Activiti](http://activiti.org/) Engine, which supports the execution of
+service compositions that are defined as process models compliant with the BPMN 2.0 standard. During the execution of
+these process models, the information exchanged (in JSON) between the Activiti Engine and the server allows the web
+application to dynamically generate graphical interfaces for the user. These interfaces enable the user to invoke the
+web services that are defined in the process models.
 
-[Activiti](http://activiti.org/) is the core technology of the web application. BPMN 2.0 process models follow the syntax
-of the Activiti Designer and these processes are executed by means of the Activiti Engine.
-
-The web application was developed in the context of an ITEA 3 project: [SITAC](https://itea3.org/project/sitac.html).
+The web application that is contained in this repository was developed in the context of an ITEA 3 project: [SITAC] (https://itea3.org/project/sitac.html). For the definition of service compositions, SITAC provides a mobile end-user
+tool, which allows users to define BPMN 2.0 process models without the need to have any technical knowledge about
+this standard or Activiti.
