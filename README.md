@@ -11,10 +11,10 @@ The web application that is contained in this repository was developed in the co
 compositions without needing any technical knowledge about BPMN 2.0 or Activiti. These process models can be executed 
 as is by the web application.
 
-A video demo of the tool can be found in:
+A video demo of the mobile application can be found in:
 
 https://www.dropbox.com/s/eoq7soiaeef8go0/EUCalipTool.mp4?dl=0
 
-The tool is available at:
+The mobile application is available at:
 
 http://personales.upv.es/pedvalar/serviceComposer
